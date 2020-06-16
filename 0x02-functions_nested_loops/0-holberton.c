@@ -10,7 +10,7 @@ int main(void)
 {
 	int i = 0;
 
-	char word[9] = {72, 111, 108, 98, 101, 114, 116, 111, 110};
+	char word[9] = {'H', 'o', 'l', 'b', 'e', 'r', 't', 'o', 'n'};
 
 	while (i <= 9)
 	{
