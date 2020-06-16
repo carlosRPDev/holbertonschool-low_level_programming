@@ -1,5 +1,5 @@
 #include "holberton.h"
-#include <unistd>
+
 /**
  * print_last_digit - print last digit of value
  *
