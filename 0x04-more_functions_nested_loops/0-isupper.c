@@ -1,5 +1,6 @@
 #include "holberton.h"
 #include <ctype.h>
+
 /**
  *_isupper - chekc if char is upper
  *@c: value of char
@@ -8,9 +9,12 @@
 
 int _isupper(int c)
 {
-	if (isupper(c))
+	if (c >= 'a' && c <= 'z' )
+	{
+		return (0);
+	}
+	else
 	{
 		return (1);
 	}
-	return (0);
 }
