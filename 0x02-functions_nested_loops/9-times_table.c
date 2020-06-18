@@ -43,6 +43,7 @@ void times_table(void)
 			}
 			c++;
 		}
+		_putchar('\n');
 		l++;
 	}
 }
