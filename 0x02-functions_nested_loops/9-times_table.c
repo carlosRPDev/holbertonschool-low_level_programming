@@ -6,14 +6,10 @@
  *
  * Return: table 9
  */
-
 void times_table(void)
 {
 
-	int r;
-	int d;
-	int i;
-	int j;
+	int r, d, i, j;
 
 	for (i = 0; i <= 9; i++)
 	{
