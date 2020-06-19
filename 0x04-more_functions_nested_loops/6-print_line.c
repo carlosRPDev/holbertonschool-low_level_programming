@@ -2,7 +2,8 @@
 
 /**
  *print_line - prints line
- *@c: n lines
+ *Description: c value loops
+ *@n: n lines
  *Return: Always 0.
  */
 
