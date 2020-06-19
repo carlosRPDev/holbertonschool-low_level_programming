@@ -1,7 +1,7 @@
 #include "holberton.h"
 
 /**
- *mul(int a, int b) - chekc if char is upper
+ *mul(int a, int b) - multiplies two integers
  *@a: value of int
  *@b: value of int
  *Return: Always 0.
