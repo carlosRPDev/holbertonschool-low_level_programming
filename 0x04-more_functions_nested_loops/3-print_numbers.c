@@ -2,7 +2,6 @@
 
 /**
  *print_numbers - prints numer of 0 ...9
- *@i: value of int
  *
  *Return: Always 0.
  */
